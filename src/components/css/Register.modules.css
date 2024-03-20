@@ -1,0 +1,56 @@
+
+.Form-Container{
+    border: #ff9b24 1px solid !important;
+    border-radius: 8px;
+    box-shadow: #ffe5d0 2px;
+}
+/* 
+ .log-form {
+     margin-left: 20px;
+    margin-right: 20px; 
+}  */
+
+.log-form input {
+    background-color: rgb(184, 237, 237);
+}
+
+.log-lnk {
+    color: #00bbae;
+}
+
+.log-lnk:hover {
+    color: #ff9b24;
+}
+
+.sign-buttons {
+    min-width:400px;
+    background-color: #ff9b24 !important; 
+    margin-top: 35px !important;
+    margin-bottom: 20px !important;
+    border-radius: 5px !important;
+    color: #fff !important;
+}
+
+
+.sign-buttons:hover {
+    background-color: #0eada3 !important;
+    color: white !important;
+} 
+
+.log-cl {
+    border-radius: 8px;
+}
+
+.sign-form input {
+    border: #ff9b24 !important;
+    background-color: rgb(184, 237, 237);
+}
+
+.sign-link {
+    color: #00bbae;
+}
+
+.sign-lnk:hover {
+    color: #ff9b24;
+}
+
